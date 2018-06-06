@@ -16,6 +16,8 @@ python implementation has been provided.
 The hashing function used is the Jenkins' one_at_a_time function:
 https://en.wikipedia.org/wiki/Jenkins_hash_function
 
+The fully reverse engineered code is provided in PoSDllResolver.
+
 
 Lloyd Macrohon <jl.macrohon@gmail.com>
 
