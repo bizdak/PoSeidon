@@ -1615,7 +1615,6 @@ kernel32.dll,uaw_wcscpy,0xd78acaf904a2cf36,0x63a2d6294c3af863
 kernel32.dll,uaw_wcsicmp,0xd78acaf904a2cf36,0xfe8d0207629f9df1
 kernel32.dll,uaw_wcslen,0xd78acaf904a2cf36,0x63a5a0d189d9c916
 kernel32.dll,uaw_wcsrchr,0xd78acaf904a2cf36,0x48917c70a130018c
-dll,export,dll-hash,export-hash
 ntdll.dll,A_SHAFinal,0x6b4ce714bb0842f9,0xc73cb1fe40229896
 ntdll.dll,A_SHAInit,0x6b4ce714bb0842f9,0x248c654be06249d8
 ntdll.dll,A_SHAUpdate,0x6b4ce714bb0842f9,0xc4b4e73216fb67d9
@@ -3906,7 +3905,6 @@ ntdll.dll,wcstok_s,0x6b4ce714bb0842f9,0xdf6eba3d0f16e7e2
 ntdll.dll,wcstol,0x6b4ce714bb0842f9,0x3120b034fd4edc46
 ntdll.dll,wcstombs,0x6b4ce714bb0842f9,0xdf6470131ec5af95
 ntdll.dll,wcstoul,0x6b4ce714bb0842f9,0x92606c1f29bc67b0
-dll,export,dll-hash,export-hash
 advapi32.dll,A_SHAFinal,0x416977f127a28b5d,0xc73cb1fe40229896
 advapi32.dll,A_SHAInit,0x416977f127a28b5d,0x248c654be06249d8
 advapi32.dll,A_SHAUpdate,0x416977f127a28b5d,0xc4b4e73216fb67d9
@@ -4760,7 +4758,6 @@ advapi32.dll,WmiSetSingleInstanceW,0x416977f127a28b5d,0xe44662a2949b391e
 advapi32.dll,WmiSetSingleItemA,0x416977f127a28b5d,0x3b2154d86b95b86a
 advapi32.dll,WmiSetSingleItemW,0x416977f127a28b5d,0x3b2154d9409de277
 advapi32.dll,WriteEncryptedFileRaw,0x416977f127a28b5d,0x1800e56dbbe659ef
-dll,export,dll-hash,export-hash
 wininet.dll,AppCacheCheckManifest,0xf052047cd648c241,0xb419e4a60842bcaf
 wininet.dll,AppCacheCloseHandle,0xf052047cd648c241,0x2c6eddb3345d3a7
 wininet.dll,AppCacheCreateAndCommitFile,0xf052047cd648c241,0x812fc1aaefdb5ef1
@@ -5058,7 +5055,6 @@ wininet.dll,UrlCacheSetGlobalLimit,0xf052047cd648c241,0x1515634a11547a29
 wininet.dll,UrlCacheUpdateEntryExtraData,0xf052047cd648c241,0x12148ca6fc892084
 wininet.dll,UrlZonesDetach,0xf052047cd648c241,0x6761ef44e46f4642
 wininet.dll,_GetFileExtensionFromUrl,0xf052047cd648c241,0x9dced9e998975aeb
-dll,export,dll-hash,export-hash
 crypt32.dll,CertAddCRLContextToStore,0xf57fc74d12f63f7b,0x89a6050dfed8adda
 crypt32.dll,CertAddCRLLinkToStore,0xf57fc74d12f63f7b,0xfc9c9042f7b0a825
 crypt32.dll,CertAddCTLContextToStore,0xf57fc74d12f63f7b,0xd94f856842463ba2
@@ -5351,7 +5347,6 @@ crypt32.dll,PFXExportCertStoreEx,0xf57fc74d12f63f7b,0x7016b3a553af7770
 crypt32.dll,PFXImportCertStore,0xf57fc74d12f63f7b,0xb0f50524e05032aa
 crypt32.dll,PFXIsPFXBlob,0xf57fc74d12f63f7b,0xc13703fbf866b5fb
 crypt32.dll,PFXVerifyPassword,0xf57fc74d12f63f7b,0xa4920901755a54be
-dll,export,dll-hash,export-hash
 iphlpapi.dll,AddIPAddress,0x42a2e4e4be55fcfe,0xc5d720ff3eafaddf
 iphlpapi.dll,AllocateAndGetInterfaceInfoFromStack,0x42a2e4e4be55fcfe,0xd7f3971ec029cd20
 iphlpapi.dll,AllocateAndGetIpAddrTableFromStack,0x42a2e4e4be55fcfe,0x4ed02e192f079201
@@ -5632,7 +5627,6 @@ iphlpapi.dll,do_echo_req,0x42a2e4e4be55fcfe,0x442ddf16de4cecec
 iphlpapi.dll,if_indextoname,0x42a2e4e4be55fcfe,0x31a1e428501a991d
 iphlpapi.dll,if_nametoindex,0x42a2e4e4be55fcfe,0x6c77de31b83c4a42
 iphlpapi.dll,register_icmp,0x42a2e4e4be55fcfe,0x1783b7cfe2b05c4f
-dll,export,dll-hash,export-hash
 psapi.dll,EmptyWorkingSet,0x6dacc06e2df410cd,0x3a7f760c613f59ae
 psapi.dll,EnumDeviceDrivers,0x6dacc06e2df410cd,0xc52cf03988c348cb
 psapi.dll,EnumPageFilesA,0x6dacc06e2df410cd,0x5d7fc7f40c11be0f
@@ -5660,7 +5654,6 @@ psapi.dll,GetWsChangesEx,0x6dacc06e2df410cd,0x63ae97808b58c4c7
 psapi.dll,InitializeProcessForWsWatch,0x6dacc06e2df410cd,0x53484a8c8192d01c
 psapi.dll,QueryWorkingSet,0x6dacc06e2df410cd,0x88434fe6b04a66e8
 psapi.dll,QueryWorkingSetEx,0x6dacc06e2df410cd,0xa2eadcf0414b5682
-dll,export,dll-hash,export-hash
 userenv.dll,AreThereVisibleLogoffScripts,0x792bcb5ef9ce078a,0x9ebadeadeff27ead
 userenv.dll,AreThereVisibleShutdownScripts,0x792bcb5ef9ce078a,0x1870a831129a5fef
 userenv.dll,CreateAppContainerProfile,0x792bcb5ef9ce078a,0xab4b6a96b5c2fcf6
